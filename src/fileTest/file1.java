@@ -83,7 +83,7 @@ public class file1 {
             w.write(len);
         }
         r.close();
-        w.close();// @@@@$$$$$
+        w.close();// @@@@$$$$$sdvgdfbsfgngdmjdgf
 
     }
 }
