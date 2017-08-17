@@ -83,7 +83,8 @@ public class file1 {
             w.write(len);
         }
         r.close();
-        w.close();// 111111
+
+        w.close();// 111111 @@@@$$$$$sdvgdfbsfgngdmjdgfaaaaaa
 
     }
 }
