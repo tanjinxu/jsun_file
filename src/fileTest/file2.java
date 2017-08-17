@@ -61,6 +61,6 @@ public class file2 {
             w.write(len);
         }
         r.close();
-        w.close();
+        w.close();//22222
     }
 }
